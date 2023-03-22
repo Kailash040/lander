@@ -105,3 +105,51 @@ color: white;
 margin-top: 3rem;
 padding: 10px 30px ;
 }
+/* lander_map */
+.map_container{
+    display: flex;
+    justify-content: space-between;
+}
+.map_container_item{
+    width: 40%;
+}
+
+/* box */
+/* map container css */
+.box{
+    background: #0F1535;
+    width: 80px;
+    height: 80px;
+    margin-top: 12px;
+    display: flex;
+}
+.map_container_section_item{
+    display: flex;
+    align-items: center;
+    margin-top: 1rem;
+}
+.map_container_section_item_imaage{
+    width: 20px;
+    height: 20px;
+    margin: auto;
+}
+.map_container{
+    background: #00092A;
+    color: white;
+    padding-top: 2rem;
+    justify-content: space-around;
+}
+.map_container_item h3{
+    font-weight: 500;
+font-size: 36px;
+}
+.map_container_item p{
+    font-weight: 400;
+font-size: 16px;
+}
+.lander_map{
+
+    background-image: url("./assests/lander_map.png");
+   
+    background-repeat: no-repeat;
+}
