@@ -280,3 +280,7 @@ align-items: center;
 padding: 1rem;
 color: white;
     }
+    .header_table_row_item p{
+      padding-left: 0.6rem;
+      padding-right: 0.6rem;
+    }
