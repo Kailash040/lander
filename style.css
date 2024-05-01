@@ -372,4 +372,9 @@ height: 400px;
 .item_display{
   display: none;
 }
+.article_right_container {
+ 
+  width: 200px;
+ 
+}
 }
